@@ -9,6 +9,659 @@
 
 ## 已推送文章列表
 
+##### [[已推送] Android 7.0 行为变更 通过FileProvider在应用间共享文件吧](http://mp.weixin.qq.com/s/0BFFoyJdrzkfk6k66tHtyA)
+
+> 作者：[鸿洋](http://blog.csdn.net/lmj623565791)<br/>
+> 推送时间:2017-06-09
+- 每次看着自己的 TODO 上的文章完成, 都很开心~
+
+<hr/>
+
+##### [[已推送] AndroidStudio 插件 之 Findbugs 安装与简单使用教程](http://mp.weixin.qq.com/s/ZuZNZy6FN9eVbyCgo0btqA)
+
+> 作者：[紫雾凌寒](http://blog.csdn.net/u013132758)<br/>
+> 推送时间:2017-06-08
+- Findbugs 非常值得使用的插件~
+
+<hr/>
+
+##### [[已推送] 打造轻量级的安卓滚轮选择控件](http://mp.weixin.qq.com/s/EMq9O6uKM0NsaRCGDCjkWQ)
+
+> 作者：[huzenan0412](http://blog.csdn.net/u012199331)<br/>
+> 推送时间:2017-06-07
+- 简洁 配图解释的非常细致~~~   话说,这图画的好清爽, like
+- [今日推荐：OpenGL ES的系列文章](http://blog.csdn.net/junzia/article/category/6462864)
+
+<hr/>
+
+##### [[已推送] Android视频开发进阶（一）关于视频的那些术语](http://mp.weixin.qq.com/s/f4X4gVQJwf_ff3qWC4TBMg)
+
+> 作者：[qing的世界](http://www.jianshu.com/u/a32db45d4859)<br/>
+> 推送时间:2017-06-06
+- 这次我要连载一些系列的深入了解视频的文章了~
+
+<hr/>
+
+##### [[已推送] ViewPager系列之 打造一个通用的ViewPager](http://mp.weixin.qq.com/s/I2gY4Xp_JGrE4YpjWQ3cag)
+
+> 作者：[依然范特稀西](http://www.jianshu.com/u/35167a70aa39)<br/>
+> 推送时间:2017-06-05
+- 封装变化~ 寻找事物间的共性
+- [今日推荐：MockNet 用于快速搭建本地服务器](https://github.com/5A59/MockNet)
+
+<hr/>
+
+##### [[已推送] 一行代码实现Android软键盘与EditText的交互](http://mp.weixin.qq.com/s/q-kEr_4JWT-LKIXaXskIoA)
+
+> 作者：[会煎蛋的猿](http://blog.csdn.net/zybieku)<br/>
+> 推送时间:2017-06-02
+- 小技巧 get~
+
+<hr/>
+
+##### [[已推送] 如何使用Android自带的资源](http://mp.weixin.qq.com/s/cG4E9VVp-G35zsK-4O5ONw)
+
+> 作者：[iJero](http://www.jianshu.com/u/aff729e04f65)<br/>
+> 推送时间:2017-06-01
+- 学习下解决问题的思路~解锁一个隐藏技能~
+
+<hr/>
+
+##### [[已推送] 用MediaPlayer+TextureView封装一个完美实现全屏、小窗口的视频播放器](http://mp.weixin.qq.com/s/61xxNbRgpF1j1ZtHxG7slw)
+
+> 作者：[xiaoyanger](http://www.jianshu.com/u/25c3b13f87ce)<br/>
+> 推送时间:2017-05-31
+- 深度好文~ 了解 TextureView 的使用姿势~
+
+<hr/>
+
+##### [[已推送] Android 开发者应该知道的学习站点（一）](http://mp.weixin.qq.com/s/5iIyBtGKCeRqdbWU4TU_cg)
+
+> 作者：[鸿洋](http://blog.csdn.net/lmj623565791)<br/>
+> 推送时间:2017-05-27
+- 端午快乐~
+
+<hr/>
+
+##### [[已推送] Android 下玩 JNI 的新老三种姿势~](http://mp.weixin.qq.com/s/_qwK5VNI40TO44eonDLo2A)
+> 作者：[马北剑西](http://blog.csdn.net/mabeijianxi)<br/>
+> 推送时间:2017-05-26
+- 工具不断优化主键减少一些步骤性的工作~
+
+<hr/>
+
+##### [[已推送] Android共享元素场景切换动画的实现](http://mp.weixin.qq.com/s/UB9YQf-r67UrL9YhKF_0Rg)
+
+> 作者：[huzenan0412](http://blog.csdn.net/u012199331)<br/>
+> 推送时间:2017-05-25
+- 我一直想写个这样的小库拖延了很久~
+
+<hr/>
+
+##### [[已推送] Android 热修复 Tinker Gradle Plugin解析](http://mp.weixin.qq.com/s/4Y1m66zpMWV3WX_spaKSaw)
+
+> 作者：[鸿洋](http://blog.csdn.net/lmj623565791)<br/>
+> 推送时间:2017-05-24
+- 终于写到最后一篇啦~~ 也算是有始有终啦~
+
+<hr/>
+
+##### [[已推送] 抢鲜下载 | 阿里Java开发手册最新完美版，千锤百炼始出炉！](http://mp.weixin.qq.com/s/fHh6CRljz4LCq9ZDtErNPQ)
+
+> 作者：[ 阿里技术]<br/>
+> 推送时间:2017-05-22
+- 除了手册外, 阿里还要出 GitHub 开源版、IDE 智能扫描插件! 简直业界良心!
+
+<hr/>
+
+##### [[已推送] MaterialDesign之SearchView解锁 仿网易云音乐搜索](https://mp.weixin.qq.com/s/wVcwebCfPcpPcKTYmA7F-w)
+
+> 作者：[CSDN_LQR](http://www.jianshu.com/u/f9de259236a3CSDN_LQR)<br/>
+> 推送时间:2017-05-22
+- 非常用心的一篇文章, 作者肯定花了不少时间 ~
+
+<hr/>
+
+##### [[已推送] 学习 Kotlin 吗?](http://mp.weixin.qq.com/s/8vGvKJ10XchRGYVXHBc1kA)
+
+> 作者：[鸿洋](http://blog.csdn.net/lmj623565791)<br/>
+> 推送时间:2017-05-19
+- 我也要为 Kotlin 刷屏贡献一份力了~
+
+<hr/>
+
+##### [[已推送] Android性能优化-电量优化](http://mp.weixin.qq.com/s/Q__TSgrx72Iq80nxceytBQ)
+
+> 作者：[黄俊彬](http://www.jianshu.com/u/466f8b75f81c)<br/>
+> 推送时间:2017-05-18
+- 从如何检测到如何优化电量~
+- [今日推荐：阿里开源无限循环的 ViewPager](https://github.com/alibaba/UltraViewPager)
+
+<hr/>
+
+##### [[已推送] Android自定义View之密码输入框](https://mp.weixin.qq.com/s/QZCtE2e9a6n3I5hhNZWZ4A)
+
+> 作者：[EoniJJ](http://www.jianshu.com/u/a453837f8802)<br/>
+> 推送时间:2017-05-17
+- 考虑的非常细致~
+- [今日推荐：“吐槽网”第三方客户端](https://github.com/blackbbc/Tucao)
+
+<hr/>
+
+##### [[已推送] Android 仿火萤视频桌面 神奇的LiveWallPaper](http://mp.weixin.qq.com/s/o6_Ol9mk2wDPXD9FQ6jQdg)
+
+> 作者：[鸿洋](http://blog.csdn.net/lmj623565791)<br/>
+> 推送时间:2017-05-16
+- 鸿洋有话说系列~
+
+<hr/>
+
+##### [[已推送] Android 快速开发（二），封装一个 BottomTabBaseActivity](http://mp.weixin.qq.com/s/Jq4VX2Dm8koMD49b2sTm3Q)
+
+> 作者：[陈序员](https://blog.ifmvo.cn/)<br/>
+> 推送时间:2017-05-15
+- 我很期待下一篇是什么~
+- [今日推荐：爱吖妹纸——Retrofit+Rx+MVP架构APP体验](https://github.com/nanchen2251/AiYaGirl)
+
+<hr/>
+
+##### [[已推送] Android 实现"透明屏幕"](http://mp.weixin.qq.com/s/aoWMf-f8ouLENEro6L5Nug)
+
+> 作者：[songx](http://www.jianshu.com/u/befb61deec9c)<br/>
+> 推送时间:2017-05-12
+- 装逼神器~
+
+<hr/>
+
+##### [[已推送] Android 仿iOS滚轮选择控件](https://mp.weixin.qq.com/s/SQKsH2xwkKPpKO41Ff2RqA)
+
+> 作者：[wozuihaole](http://blog.csdn.net/wozuihaole)<br/>
+> 推送时间:2017-05-11
+- 制造滚轮控件的两种方式~
+- 今日推荐：JNI 实战系列
+  - [Android的JNI【实战教程】java和c／c++的那些事](http://blog.csdn.net/github_33304260/article/details/62891137)
+  - [Android的JNI【实战教程】AS下NDK环境配置及第一个工程](http://blog.csdn.net/github_33304260/article/details/62891083)
+  - [Android的JNI【实战教程】Java调用C代码](http://blog.csdn.net/github_33304260/article/details/65440561)
+  - [Android的JNI【实战教程】C调用Java代码](http://blog.csdn.net/github_33304260/article/details/71213921)
+
+<hr/>
+
+##### [[已推送] 探索Android半透明状态栏](http://mp.weixin.qq.com/s/NHDnWQHNVxy3KeASgXSnFQ)
+
+> 作者：[kyleduo](https://blog.kyleduo.com)<br/>
+> 推送时间:2017-05-10
+- 从原理出发，彻底说清楚问题~
+- [今日推荐：非常优质的资源合集~](https://github.com/aritraroy/UltimateAndroidReference)
+
+<hr/>
+
+##### [[已推送] 我一行代码都不写实现Toolbar!你却还在封装BaseActivity?](http://mp.weixin.qq.com/s/Acv2bulKbiJR9dKakaHZEw)
+
+> 作者：[jessyan](http://www.jianshu.com/u/1d0c0bc634db)<br/>
+> 推送时间:2017-05-09
+- 说不定有一天大家就开发分享自己写的 ActivityLifeCycleCallback~
+- [今日推荐：悦跑圈Android单业务开发，提高编译效率15倍](http://www.jianshu.com/p/452367cbb7be#)
+
+<hr/>
+
+##### [[已推送] 你真的了解SharedPreferences吗？](http://mp.weixin.qq.com/s/vJLqcSM-1v4LYs8Vzv1NoA)
+
+> 作者：[EoniJJ](http://www.jianshu.com/u/a453837f8802)<br/>
+> 推送时间:2017-05-08
+- 分享才踩坑经验~
+- 今日推荐：JNI 进阶文
+  - [JNI学习积累之一 ---- 常用函数大全](http://blog.csdn.net/qinjuning/article/details/7595104)
+  - [JNI学习积累之二 ---- 数据类型映射、域描述符说明](http://blog.csdn.net/qinjuning/article/details/7599796)
+  - [JNI学习积累之三 ---- 操作JNI函数以及复杂对象传递](http://blog.csdn.net/qinjuning/article/details/7607214)
+  - [JNI 实战全面解析](http://blog.csdn.net/banketree/article/details/40535325)
+
+<hr/>
+
+##### [[已推送] Lottie -- 轻松实现动态加载直播礼物动画](http://mp.weixin.qq.com/s/58wX7cWiab-AXFnw3l1pcQ)
+
+> 作者：[liujun（大脑好饿）](http://www.liujun.info/)<br/>
+> 推送时间:2017-05-05
+- 使用 Lottie 来实现神奇的动画吧~
+- 今日推荐：NDK 初学三部曲
+  - [Android NDK之旅（一），不使用ndk-build命令来创建jni](http://blog.csdn.net/qq_35071078/article/details/70338637)
+  - [Android NDK之旅（二），使用ndk-build构建Jni](http://blog.csdn.net/qq_35071078/article/details/70502481)
+  - [Android NDK之旅（三），使用cmake来构建Jni](http://blog.csdn.net/qq_35071078/article/details/70544766)
+
+<hr/>
+
+##### [[已推送] Android双缓冲绘图技术分析](http://mp.weixin.qq.com/s/6m4OCyS6g8zlhlob9Nx0FQ)
+
+> 作者：[wensefu](http://www.jianshu.com/u/4d74dd2268af)<br/>
+> 推送时间:2017-05-04
+- 掌握这些细节，更好的开发~
+- [今日推荐：DiyCode 客户端开源啦](https://github.com/GcsSloop/diycode)
+
+<hr/>
+
+##### [[已推送]  （已拿offer）腾讯/百度/今日头条/美团2017Android开发实习生面经](http://mp.weixin.qq.com/s/Twx50aJpVy7fGuioOwyB3A)
+
+> 作者：[bboylin](https://github.com/bboylin/MyNotebook)<br/>
+> 推送时间:2017-05-03
+- 校招对于大多学生来说一定要把握住~
+- 今日推荐：FFmpeg 的一切，包含：编译、使用、源码分析
+  - [ffmpeg必知道的知识点](http://blog.csdn.net/king1425/article/details/70348374)
+  - [windows下编译最新版ffmpeg3.3-android，并通过CMake方式移植到Android studio2.3中](http://blog.csdn.net/king1425/article/details/70338674)
+  - [ffmpeg源码简析（一）结构总览](http://blog.csdn.net/king1425/article/details/70597642)
+
+<hr/>
+##### [[已推送]  写给Android开发者的Java 8简单入门教程](http://mp.weixin.qq.com/s/79xazMldw3ba51aUfcrTQA)
+
+> 作者：[tangpj](http://tangpj.com/archives/)<br/>
+> 推送时间:2017-05-02
+- Android Studio 带着 Java 8 来啦~
+- 今日推荐：有 2 篇
+  - [Picasso，Glide，Fresco对比分析](http://blog.csdn.net/github_33304260/article/details/70213300)
+  - [Picasso，Glide，Fresco对比分析](http://www.jianshu.com/p/ca5ce4444c37#)
+
+<hr/>
+##### [[已推送] MVVM，RxJava和Retrofit的一次实践 ](http://mp.weixin.qq.com/s/PspA4DYPhzLtsJGJykGY0w)
+
+> 作者：[haohao](http://haohaochang.cn/)<br/>
+> 推送时间:2017-04-28
+
+- 通过实战来介绍知识点~
+- [今日推荐：Android安全开发之安全使用HTTPS](http://www.cnblogs.com/alisecurity/p/5939336.html)
+
+<hr/>
+
+##### [[已推送] Android 快速开发（一），封装一个 TopBarBaseActivity ](http://mp.weixin.qq.com/s/-cImCCR8hnMPVzpCw2rLfA)
+
+> 作者：[陈铭卓](https://blog.ifmvo.cn)<br/>
+> 推送时间:2017-04-27
+
+- 写得细致入微~可以合理的举一反三~
+
+<hr/>
+
+##### [[已推送] 仿微信朋友圈9图上传选择器 ](http://mp.weixin.qq.com/s/3xLMuv-cK8fIDiuHd_y2Zg)
+
+> 作者：[姚智胜](http://blog.csdn.net/a243981326)<br/>
+> 推送时间:2017-04-26
+
+- 封装一次，随处使用~
+- [今日推荐：使用WebView监控网页加载状况，PerformanceMonitor，WebViewClient生命周期](http://www.cnblogs.com/s-xq/p/6700996.html)
+
+<hr/>
+
+##### [[已推送] 利用FFmpeg仿微信小视频录制与压缩处理 ](http://mp.weixin.qq.com/s/2rhY0q9qskz51tBmleiSKw)
+
+> 作者：[马北剑西](http://blog.csdn.net/mabeijianxi/)<br/>
+> 推送时间:2017-04-25
+
+- 小视频，小视频~
+- [今日推荐：Android 蓝牙 pbap 获取通话记录以及通话日期时间](http://www.jianshu.com/p/cf2b7d8651b5)
+
+<hr/>
+
+##### [[已推送] Android 利用Gradle实现差异化构建 ](http://mp.weixin.qq.com/s/H306PkuT9fC2irNVFlXVeg)
+
+> 作者：[EoniJJ](http://www.jianshu.com/u/a453837f8802)<br/>
+> 推送时间:2017-04-24
+
+- 短小精悍的文章，非常有用~
+
+<hr/>
+
+##### [[已推送] Android 面试攻略 之 微信扫码登录内部实现原理](http://mp.weixin.qq.com/s/GYp2ptku3MaNQHSG7CIfMw)
+
+> 作者：[马伟奇](http://www.jianshu.com/u/53e5012c55a3)<br/>
+> 推送时间:2017-04-21
+
+- 很佩服的一位作者~
+
+<hr/>
+
+##### [[已推送] 一步步实现打开相机连续拍照拿到多张照片](http://mp.weixin.qq.com/s/nwdBS-ag1h1vgOWm9FqmJg)
+
+> 作者：[哦罢了]()<br/>
+> 推送时间:2017-04-20
+
+- 有时候可以换个角度考虑问题~
+- [今日推荐：Gradle配置最佳实践](https://juejin.im/post/582d606767f3560063320b21)
+
+<hr/>
+
+##### [[已推送] 如何优雅地实现RecyclerView Adapter多布局列表](http://mp.weixin.qq.com/s/3J2pjHIwXxrO85YLR56jdg)
+
+> 作者：[陈志鹏](http://zpayh.xyz/)<br/>
+> 推送时间:2017-04-19
+
+- 人人都来封装个 baseAdapter 吧~
+- [今日推荐：传统MVP用在项目中是真的方便还是累赘?](https://juejin.im/post/58b25e588d6d810057ed3659)
+
+<hr/>
+
+##### [[已推送] Android AutoWrapTextView 解决中英文排版问题](http://mp.weixin.qq.com/s/lk6RQKU83CikFKhcM-gVCQ)
+
+> 作者：[伪文艺大叔](http://www.jianshu.com/u/030d732a71d2)<br/>
+> 推送时间:2017-04-18
+
+- 挺常见的需求~
+- [今日推荐：Android 源码解析开源项目](https://github.com/LittleFriendsGroup/AndroidSdkSourceAnalysis/blob/master/README.md)
+
+<hr/>
+
+##### [[已推送] Android 自定义View----BezierViewPager](http://mp.weixin.qq.com/s/_GMjkZcTTh4vmTXstR5RDQ)
+
+> 作者：[凶残的程序员](http://blog.csdn.net/qian520ao)<br/>
+> 推送时间:2017-04-17
+
+- 贝塞尔曲线玩的666~
+
+<hr/>
+
+##### [[已推送] Android实战 RxJava2+Retrofit+RxBinding解锁各种新姿势](http://mp.weixin.qq.com/s/Iggi0qplKrrXg9rzOTek_Q)
+
+> 作者：[Hensen_](http://blog.csdn.net/qq_30379689)<br/>
+> 推送时间:2017-04-14
+
+- 有需求的话可以学习学习~
+
+<hr/>
+
+##### [[已推送] Android性能优化-内存泄漏的8个Case](http://mp.weixin.qq.com/s/zswNArUj8PqPXmVHMUUxuA)
+
+> 作者：[黄俊彬](http://www.jianshu.com/u/466f8b75f81c)<br/>
+> 推送时间:2017-04-13
+
+- 错误示例加解决方案来说明问题~
+
+<hr/>
+
+##### [[已推送] Android语音识别之模糊匹配 特定需求的语音识别优化](http://mp.weixin.qq.com/s/fQ4Bphpfstv5ug2oLt99-w)
+
+> 作者：[lintax](http://blog.csdn.net/lintax)<br/>
+> 推送时间:2017-04-12
+
+- 看完后很有启发的一篇文章~
+- [今日推荐：LFilePicker---文件选择利器，各种样式有它就够了。](https://github.com/leonHua/LFilePicker)
+
+<hr/>
+
+##### [[已推送] 仿微信视频拍摄UI, 基于ffmpeg的视频录制编辑](https://mp.weixin.qq.com/s/8OibDPrLxUupLfE6ktFdjQ)
+
+> 作者：[Zhaoss](http://www.jianshu.com/u/f481598cc619)<br/>
+> 推送时间:2017-04-11
+
+- 非常值得学习的案例~
+
+<hr/>
+
+##### [[已推送] Android 自定义录音、播放动画View，让你的录音浪起来 ](http://mp.weixin.qq.com/s/7b-zJtIjgIwoqcuBTspIIw)
+
+> 作者：[BlinCheng](http://blog.csdn.net/qq_25867141)<br/>
+> 推送时间:2017-04-10
+
+- 优雅的录音效果~
+- [今日推荐：《易读》一个模仿网易云音乐UI，Rxjava+Retrofit+dagger2+MVP的开源项目](https://github.com/laotan7237/EasyReader)
+
+<hr/>
+
+##### [[已推送] Android Shader 实战 各种炫酷效果的基石 ](http://mp.weixin.qq.com/s/YZGXHh6y0k2fq6JQ_8qcxw)
+
+> 作者：[凶残的程序员](http://blog.csdn.net/qian520ao)<br/>
+> 推送时间:2017-04-07
+
+- 雷达、多边形裁切、霓虹灯文字实战、图片倒影实战都在这儿~
+- [今日推荐：自建Maven仓库 - Artifactory](http://www.jianshu.com/p/fa5bbb512c48)
+
+<hr/>
+
+##### [[已推送] Glide 源码详解 ](http://mp.weixin.qq.com/s/m3L9aDC50Tt44Uur8-Qc5A)
+
+> 作者：[夏雨_](http://blog.csdn.net/yulyu)<br/>
+> 推送时间:2017-04-06
+
+- 不仅是源码解析，包含一整个系列~
+
+<hr/>
+
+##### [[已推送] 我们为什么要把Dagger2,MVP以及Rxjava引入项目中? ](http://mp.weixin.qq.com/s/ij07k3AAQUJTbYfb4B8KdA)
+
+> 作者：[jessyan](http://www.jianshu.com/u/1d0c0bc634db)<br/>
+> 推送时间:2017-04-05
+
+- MVP、Dagger、RxJava 这些都是什么，为什么要学他们~
+- [今日推荐：如何构建自己的笔记系统？](https://www.zhihu.com/question/23427617)
+
+<hr/>
+
+##### [[已推送] Android DiffUtil新工具类，让你的RecyclerView飞一会 ](http://mp.weixin.qq.com/s/KFK3JJhASojyjMiwntdyYw)
+
+> 作者：[BlinCheng](http://blog.csdn.net/qq_25867141)<br/>
+> 推送时间:2017-03-31
+
+- 更加高效的刷新 RecycleView 方式
+
+<hr/>
+
+##### [[已推送] Android 快速开发之定制 BaseTemplate ](http://mp.weixin.qq.com/s/CPbL-lBKT_5IyIlVIZ_YMA)
+
+> 作者：[Hensen_](http://blog.csdn.net/qq_30379689/)<br/>
+> 推送时间:2017-03-30
+
+- BaseActivity~BaseFragment~
+
+<hr/>
+
+##### [[已推送] Android EventBus 3 源码解析 把控事件总线 ](http://mp.weixin.qq.com/s/ptOCbs32jt-JvEC7saeemw)
+
+> 作者：[Burjal](http://www.jianshu.com/u/7f8d85055cd1)<br/>
+> 推送时间:2017-03-29
+
+- EventBus 3 比 EventBus 2 改进了哪些呢
+- [今日推荐：一个 nice 的转场动画库](https://github.com/lgvalle/Material-Animations)
+
+<hr/>
+
+##### [[已推送] Android EditText 方框验证码 短信验证码攻略](http://mp.weixin.qq.com/s/kUByQ2Ls2mG5IJzaG19twQ)
+
+> 作者：[xiawe_i](http://www.jianshu.com/u/fa9f03a240c6)<br/>
+> 推送时间:2017-03-28
+
+- 灵活的利用系统控件~
+- [今日推荐：其实你不知道 MultiDex 到底有多坑](http://www.open-open.com/lib/view/open1452264136714.html)
+
+<hr/>
+
+##### [[已推送] Android 加快apk的构建速度，如何把编译时间从130秒降到17秒 ](http://mp.weixin.qq.com/s/M89FZnP7FFVnkZEVz2DqAQ)
+
+> 作者：[typ0520](http://www.jianshu.com/u/99c659a8bb36)<br/>
+> 推送时间:2017-03-27
+
+- 学习 Gradle、以及构建过程的一篇好文~
+
+<hr/>
+
+##### [[已推送] Android 你应该注意的开发规范 ](http://mp.weixin.qq.com/s/Xn7fM4zsNrvpDW8xW2m_hQ)
+
+> 作者：[Blankj](http://www.jianshu.com/u/46702d5c6978)<br/>
+> 推送时间:2017-03-24
+
+- 无规矩不成方圆，有一套适合自己团队的就好~
+- [今日推荐：Bugly的好文，Android 内存优化总结 & 实践~](http://mp.weixin.qq.com/s/2MsEAR9pQfMr1Sfs7cPdWQ)
+
+<hr/>
+
+##### [[已推送] Android 改造SwipeRefreshLayout 支持上拉加载 ](http://mp.weixin.qq.com/s/r1J6789mowPqZ1BGiLHwew)
+
+> 作者：[Get_Zoom](http://blog.csdn.net/Get_Zoom)<br/>
+> 推送时间:2017-03-23
+
+- 改造 SwipeRefreshLayout 为需求所用~
+- [今日推荐：我的好朋友的之前在创业公司的一个项目(已开源，已允许)](https://github.com/pinguo-sunjianfei/Android-Application-ZJB)
+
+<hr/>
+
+##### [[已推送] Android实战自定义控件 仿华为天气预报UI ](http://mp.weixin.qq.com/s/cQ2EGfjfvhgyR2ABHc-CDQ)
+
+> 作者：[小码哥_WS](http://blog.csdn.net/king1425)<br/>
+> 推送时间:2017-03-22
+
+- 好久不见自定义 View 的文章了~~
+- [今日推荐：这么多的安卓开发 Tips(原文) ~](https://github.com/nisrulz/android-tips-tricks)
+- [这么多的安卓开发 Tips (修改后) ~](https://github.com/cctanfujun/android-tips-tricks-cn)
+
+<hr/>
+
+##### [[已推送] Android 自己动手生成 Apk 了解Apk生成的种种细节](http://mp.weixin.qq.com/s/rJ3TawFf6ww_7lfmQzxu5w)
+
+> 作者：[ChuckChenLw](http://blog.csdn.net/chenkai19920410)<br/>
+> 推送时间:2017-03-21
+
+- 即使有了自动化工具，也不要忘了其中的细节~
+- [今日推荐：一款非常优美的开源相册程序 LeafPic ~](https://github.com/HoraApps/LeafPic)
+
+<hr/>
+
+##### [[已推送] Android自定义键盘之汉字键盘](http://mp.weixin.qq.com/s/qHUWnVj_O-Y2LEjxA4hgow)
+
+> 作者：[lintax](http://blog.csdn.net/lintax)<br/>
+> 推送时间:2017-03-20
+
+- 老板麻烦上个汉字键盘~
+- [今日推荐：Google 开源的 guetzli ~](https://github.com/google/guetzli)
+
+<hr/>
+
+##### [[已推送] Android进阶系列之源码分析AlertDialog建造者模式](http://mp.weixin.qq.com/s/9D3EC419q2M5BNIDp3jkSg)
+
+> 作者：[SingleShu888](http://blog.csdn.net/sw5131899)<br/>
+> 推送时间:2017-03-17
+
+- 应该熟练掌握的一个设计模式~
+- [今日推荐：Android 构建过程分析，掌握资源合并、AAPT 打包、dex 生成的详细规则](http://t.cn/RikHa6l)
+
+<hr/>
+
+##### [[已推送] Android 自定义控件 PickerView 源码解析 带你剖析3D滚轮效果](http://mp.weixin.qq.com/s/3GdXZPc26P0T48swjT5B_Q)
+
+> 作者：[丶小嵩](http://blog.csdn.net/qq_22393017)<br/>
+> 推送时间:2017-03-16
+
+- Android-PickerView 维护者来给你们分析其源码实现~
+- [今日推荐：【热修复】号称修复率99.9%的热修项目Robust 开源了，赶紧来看看吧~](https://github.com/Meituan-Dianping/Robust)
+
+<hr/>
+
+##### [[已推送] Android Glide库使用，一句话完成图片加载、gif、高斯模糊等 && 【菜鸟窝的三个实战项目推荐】](http://mp.weixin.qq.com/s/RjkZAo77qxmc_zVlGaA2cQ)
+
+> 作者：[Hensen_](http://blog.csdn.net/qq_30379689)<br/>
+> 推送时间:2017-03-15
+
+- 一行代码完成图片的加载，gif，高斯模糊等特效~~Glide 真的让人感觉很赞！
+- [今日推荐：手淘技术团队开源的 atlas](https://github.com/alibaba/atlas)
+
+<hr/>
+
+##### [[已推送] Android进阶系列之Support Annotation Library使用详解](http://mp.weixin.qq.com/s/f24JJRS8JeDKbE3q5zH8_w)
+
+> 作者：[SingleShu888](http://blog.csdn.net/sw5131899)<br/>
+> 推送时间:2017-03-14
+
+- 让 Support Annotation Library 帮你发现嵌在的问题吧~
+- [今日推荐：一个优秀的个人博客~张涛](https://www.kymjs.com/index.html)
+
+<hr/>
+
+##### [[已推送] Android MVP Plugin，一键完成MVP结构代码编写](http://mp.weixin.qq.com/s/fo34hyvjzNSURSh_V8y4oQ)
+
+> 作者：[蚂蚁](http://yugai.github.io/archives/)<br/>
+> 推送时间:2017-03-13
+
+- 合理的使用插件可以提升开发效率。如果能够使用自己开发的插件，会改善工作心情~
+- [今日推荐：关于 Gradle 相关知识介绍并不多，推荐个 Gradle 的系列学习文章~](http://www.cnblogs.com/davenkin/p/gradle-learning-1.html)
+
+<hr/>
+
+##### [[已推送] Android性能优化系列之App启动优化](http://mp.weixin.qq.com/s/4k1ShM6xp0ldARg7uQUD8g)
+
+> 作者：[首席套路管](http://blog.csdn.net/u012124438)<br/>
+> 推送时间:2017-03-10
+
+- 面对应用的启动速度缓慢如何应对~
+- [今日推荐：安居客 Android 项目架构演进](http://blog.csdn.net/baron_leizhang/article/details/58071773)
+
+<hr/>
+
+##### [[已推送] Android 热修复 Tinker 源码分析之DexDiff / DexPatch](http://mp.weixin.qq.com/s/Fdxf_NQcDlyc1HPItAx9lA)
+
+> 作者：[鸿洋](http://blog.csdn.net/lmj623565791)<br/>
+> 推送时间:2017-03-09
+
+- tinker 的核心算法 dex diff 剖析，不要错过了解这么神奇的算法的机会~
+- [今日推荐：关于 Material Design 的一切资料都在这里~](https://github.com/Luosunce/material-design-data)
+
+<hr/>
+
+##### [[已推送] 微信终端跨平台组件 Mars 在移动网络的探索和实践](http://mp.weixin.qq.com/s/JloIuzcsBTYsxACwc7ulGQ)
+
+> 作者：[鸿洋](http://blog.csdn.net/lmj623565791)<br/>
+> 推送时间:2017-03-08
+
+- mars 课程推荐
+
+<hr/>
+
+##### [[已推送] Android性能优化系列之内存优化](http://mp.weixin.qq.com/s/RV0NHClnpD9xMVLGdcUYDg)
+
+> 作者：[首席套路管](http://blog.csdn.net/u012124438)<br/>
+> 推送时间:2017-03-07
+
+- 本文主要介绍了内存泄漏的检测，包含：DDMS、MAT、LeakCanary 等工具的详细用法。
+- [今日推荐：一些非常不错的 Android 相关导图，一图胜千言，千万别错过](http://www.jianshu.com/p/e2b464c13815#)
+
+<hr/>
+
+##### [[已推送] Android StatusLayout 多状态视图切换](http://mp.weixin.qq.com/s/WzqvhN5B3skDveAg-ZYmRQ)
+
+> 作者：[伪文艺大叔](http://www.jianshu.com/u/030d732a71d2)<br/>
+> 推送时间:2017-03-06
+
+- 统一管理，loading 界面、network error 界面、retry 界面等等~
+- [今日推荐：遵循MD，使用 MVP + RxJava + Retrofit + Okttp + Dagger2 的一个开源项目~](https://github.com/spring2613/Daily)
+
+<hr/>
+
+##### [[已推送] Android 不要错过的7个完整项目学习](http://mp.weixin.qq.com/s/xJtFkhEzKJGoOFQoSzqL5Q)
+
+> 作者：[鸿洋](http://blog.csdn.net/lmj623565791)<br/>
+> 推送时间:2017-03-04
+- 为大家尽心挑选的多媒体类、IM 通讯类、阅读类、商城类以及官方开源的7个开源完整的 APP~~
+
+<hr/>
+
+##### [[已推送] Android插件化框架系列之类加载器](http://mp.weixin.qq.com/s/iBYe1bkTJom8cGMXukFSZw)
+
+> 作者：[jjlanbupt](http://www.jianshu.com/u/d4c81f4599d6)<br/>
+> 推送时间:2017-03-03
+- 类加载相关是黑科技的门槛之一
+- [今日推荐：非常多的面试相关题目，正在找工作的话不要错过~](https://github.com/GeniusVJR/LearningNotes)
+
+<hr/>
+
+##### [[已推送] Android UI性能优化 检测应用中的UI卡顿](http://mp.weixin.qq.com/s/O6rnz2sqBTP8u2lfpa75rg)
+
+> 作者：[鸿洋](http://blog.csdn.net/lmj623565791)<br/>
+> 推送时间:2017-03-01
+- 3种方式帮你检测应用中的卡顿~~
+
+<hr/>
+
+##### [[已推送] Android 系统自带DownloadManager详解](http://mp.weixin.qq.com/s/NGgTISnxYRHPW4aWwUXLUg)
+
+> 作者：[DX_Demi](http://blog.csdn.net/u012209506/)<br/>
+> 推送时间:2017-02-27
+- 很多时候 DownloadManager 就能满足需求了~
+- [今日推荐：蘑菇街的热修复方案~](https://github.com/meili/Aceso)
+
+<hr/>
+
 ##### [[已推送] Android 广播相关的都在这儿](http://mp.weixin.qq.com/s/khUeEW0CRaSlWAt2ZNLJKw)
 
 > 作者：[Hensen_](http://blog.csdn.net/qq_30379689)<br/>
